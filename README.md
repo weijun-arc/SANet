@@ -94,8 +94,8 @@ The training and testing datasets come from [PraNet](https://github.com/DengPing
 ```
 
 ## Predictions & Trained model
-- trained model: [Link](https://pan.baidu.com/s/10FLaRoTsZq8ESmnS6I-TVQ) | Code:km9q
-- predictions: [Link](https://pan.baidu.com/s/1u6EdWxn9WHy0drEK3LBUwA) | Code:598i
+- trained model: [Baidu: km9q](https://pan.baidu.com/s/10FLaRoTsZq8ESmnS6I-TVQ) | [Google](https://drive.google.com/file/d/1x6zE73weJ6I_4Vquwe4bt0zf_gahNo0n/view?usp=sharing)
+- predictions: [Baidu：598i](https://pan.baidu.com/s/1u6EdWxn9WHy0drEK3LBUwA) | [Google](https://drive.google.com/file/d/1hIJzzKA5aQEyLIRid5PJU9_JZZ4nGkGQ/view?usp=sharing)
 
 - Quantitative comparisons 
 ![performace](./fig/performance.png)
