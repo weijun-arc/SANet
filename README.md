@@ -57,7 +57,7 @@ The training and testing datasets come from [PraNet](https://github.com/DengPing
 
 ## Download model
 
-- If you want to test the performance of SANet, please download our trained model ([Link](https://pan.baidu.com/s/10FLaRoTsZq8ESmnS6I-TVQ)| Code:km9q) into `src/out` folder
+- If you want to test the performance of SANet, please download our trained model ([Baidu: km9q](https://pan.baidu.com/s/10FLaRoTsZq8ESmnS6I-TVQ) | [Google](https://drive.google.com/file/d/1x6zE73weJ6I_4Vquwe4bt0zf_gahNo0n/view?usp=sharing)) into `src/out` folder
 - If you want to train your own model, please download the [pretrained model](https://drive.google.com/file/d/1_1N-cx1UpRQo7Ybsjno1PAg4KE1T9e5J/view?usp=sharing) into `res` folder
 
 ## Prerequisites
