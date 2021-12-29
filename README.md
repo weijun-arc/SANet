@@ -83,10 +83,10 @@ The training and testing datasets come from [PraNet](https://github.com/DengPing
     cd src
     python3 test.py
 ```
-- After testing, predcitions of testing dataset will be saved in `eval/SANet/` folder.
+- After testing, predictions of testing dataset will be saved in `eval/SANet/` folder.
 
 ## Evaluation
-- To evaluate the performace of F3Net, please use MATLAB to run `main.m`
+- To evaluate the performace of SANet, please use MATLAB to run `main.m`
 ```shell
     cd eval
     matlab
