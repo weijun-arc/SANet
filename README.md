@@ -103,7 +103,15 @@ The training and testing datasets come from [PraNet](https://github.com/DengPing
 - Qualitative comparisons 
 ![sample](./fig/visualization.png)
 
-<!-- ## Citation
+## Citation
 - If you find this work is helpful, please cite our paper
 ```
-``` -->
+@inproceedings{SANet,
+  title        = {Shallow Attention Network for Polyp Segmentation},
+  author       = {Wei, Jun and Hu, Yiwen and Zhang, Ruimao and Li, Zhen and Zhou, S.Kevin and Cui, Shuguang},
+  booktitle    = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages        = {699--708},
+  year         = {2021},
+  organization = {Springer}
+}
+```
